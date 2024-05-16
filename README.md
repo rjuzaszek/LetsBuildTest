@@ -11,7 +11,7 @@ This SwiftUI application is designed to solve the minimal cube count problem for
 To run the Box Filling App, you need to have Xcode installed on your macOS system as it is built using SwiftUI.
 
 1. **Clone the repository**:
-- git clone https://github.com/rjuzaszek/LetsBuildTest.git)
+- git clone https://github.com/rjuzaszek/LetsBuildTest.git
 2. **Open the project**:
 - Navigate to the cloned directory and open the project in Xcode by double-clicking on `myprogram.xcodeproj`.
 
@@ -29,4 +29,4 @@ To run the Box Filling App, you need to have Xcode installed on your macOS syste
 Robert Juzaszek
 
 ## Disclaimer
-Dynamyic programming approach is a trial and doesn't give good results also it takes a lot of time to execute as it's complexity is much bigger then greedy one, so it's just a feature to showcase possible app construction here, please don't take it into consideration when checking results :)
+Dynnamic programming approach is a trial and doesn't give good results also it takes a lot of time to execute as it's complexity is much bigger then greedy one, so it's just a feature to showcase possible app construction here, please don't take it into consideration when checking results :)
